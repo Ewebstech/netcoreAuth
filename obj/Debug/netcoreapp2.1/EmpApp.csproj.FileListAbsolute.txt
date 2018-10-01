@@ -1,4 +1,3 @@
-/home/emmanuel/Trials/EmpApp/bin/Debug/netcoreapp2.1/app.db
 /home/emmanuel/Trials/EmpApp/bin/Debug/netcoreapp2.1/EmpApp.deps.json
 /home/emmanuel/Trials/EmpApp/bin/Debug/netcoreapp2.1/EmpApp.runtimeconfig.json
 /home/emmanuel/Trials/EmpApp/bin/Debug/netcoreapp2.1/EmpApp.runtimeconfig.dev.json
@@ -34,3 +33,4 @@
 /home/emmanuel/Trials/EmpApp/obj/Debug/netcoreapp2.1/EmpApp.dll
 /home/emmanuel/Trials/EmpApp/obj/Debug/netcoreapp2.1/EmpApp.pdb
 /home/emmanuel/Trials/EmpApp/obj/Debug/netcoreapp2.1/EmpApp.csproj.CopyComplete
+/home/emmanuel/Trials/EmpApp/bin/Debug/netcoreapp2.1/app.db
